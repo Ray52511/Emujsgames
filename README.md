@@ -1,2 +1,2 @@
 # Emujsgames
-Game rom collection for emujs
+This is private, so dont block anything
